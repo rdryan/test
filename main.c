@@ -2,6 +2,6 @@
 
 main()
 {
-	printf("This is a first program in GitHub\n");
+	printf("This is the first program in GitHub\n");
 }
 
