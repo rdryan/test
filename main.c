@@ -5,3 +5,4 @@ main()
 	printf("This is the first program in GitHub\n");
 }
 
+exit 0;
